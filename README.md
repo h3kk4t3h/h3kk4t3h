@@ -10,8 +10,8 @@
 
 ## I'm a Cybersec student and coding noob
 
-- 🔭 Currently working on my Cybersecurity Expert degree
 - 🌍 From Portugal
+- 🔭 Currently working on my Cybersecurity Expert degree
 - 🌱 Currently learning Web Development and Python
 
 <p align="center">
