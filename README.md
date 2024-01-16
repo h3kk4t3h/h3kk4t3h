@@ -20,7 +20,7 @@
 
 <!--  Stats -->
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=h3kk4t3h&show_icons=true&theme=nightowl" alt="GitHub Stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=h3kk4t3h&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=h3kk4t3h&show_icons=true&theme=nightowl" alt="GitHub Stats">
 </p>
 
 <!-- Languages -->
@@ -35,3 +35,5 @@
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" alt="Separator" height="20" width="100%">
 </p>
+
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=h3kk4t3h&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"> -->
