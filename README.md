@@ -8,11 +8,11 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" alt="Separator" height="20" width="100%">
 </p>
 
-## I'm a Cybersec student and coding noob
+## I'm a Cybersec Expert and coding noob
 
 - 🌍 From Portugal
-- 🔭 Currently working on my Cybersecurity Expert degree
-- 🌱 Currently learning Web Development and Python
+- 🔭 Currently working on my Python Dev Course
+- 🌱 Currently learning Unity Game Dev
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" alt="Separator" height="20" width="100%">
